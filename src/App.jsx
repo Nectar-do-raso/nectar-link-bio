@@ -35,8 +35,9 @@ export default function App() {
 
   {/* CATÁLOGO */}
   <a
-    href="https://instagram.com/nectardorasooficial"
+    href="/catalogo-premium-nrco.pdf"
     target="_blank"
+    rel="noreferrer"
     className="absolute left-[10%] w-[80%] top-[77.5%] h-[3.3%] rounded-full"
   >
   </a>
